@@ -1,0 +1,2 @@
+module Mahdi2022 {
+}
